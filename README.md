@@ -19,7 +19,7 @@
 - LinkedIn: [AlbertoJALJ]([https://www.linkedin.com/in/albertojalj/])
 
 ## 🌟 Projects
-- [Palworld Scrapper]([https://github.com/AlbertoJALJ/project1](https://github.com/AlbertoJALJ/palworld_scrapper)): This is a python scrapper for palworld data.
+- [Palworld Scrapper](https://github.com/AlbertoJALJ/palworld_scrapper): This is a python scrapper for palworld data.
 - [Palworld API](https://github.com/AlbertoJALJ/palword_api): Fastapi palworld api
 
 
